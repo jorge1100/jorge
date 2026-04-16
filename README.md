@@ -1,4 +1,4 @@
-# Jorge Luis Rojas
+# Jorge Rojas
 
 > Programador enfocado en fundamentos, bases de datos y sistemas Linux.
 
